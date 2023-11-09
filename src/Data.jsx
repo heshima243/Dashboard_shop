@@ -1,0 +1,20 @@
+export const UserData = [
+    {
+    id:1,
+    year:2018,
+    userGain:8000,
+    userLost:400,
+},
+    {
+    id:2,
+    year:2019,
+    userGain:9000,
+    userLost:700,
+},
+    {
+    id:3,
+    year:2013,
+    userGain:4000,
+    userLost:900,
+}
+]
